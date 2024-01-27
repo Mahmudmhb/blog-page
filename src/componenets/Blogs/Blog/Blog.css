@@ -4,6 +4,7 @@
 }
 .blog-container{
     margin: 50px;
+    border-bottom:  2px solid rgba(17, 17, 17, 0.10);
 
 }
 .name-img{
@@ -19,6 +20,9 @@
     height: 50px;
     border-radius: 50%;
 }
+.name-img h3{
+    margin: 0;
+}
 .name-sec p{
     color: rgba(17, 17, 17, 0.60);
 
@@ -27,12 +31,24 @@
     font-style: normal;
     font-weight: 600;
     line-height: 160%; 
+    margin: 0;
 }
-.info-container{
+.info-container h2{
     color: #111;
     font-family: "Exo 2";
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
     line-height: 160%; /* 64px */
-    }
+    margin:  0;
+ }
+ .info-container button{
+    color: #6047EC;
+    font-family: "Exo 2";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+    margin: 20px 0px;
+ }
