@@ -1,0 +1,38 @@
+.blog-img{
+    width: 800px;
+    height: 400px;
+}
+.blog-container{
+    margin: 50px;
+
+}
+.name-img{
+    display: flex;
+    align-items: center;
+}
+.name-container{
+    display: flex;
+    justify-content: space-between;
+}
+.name-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.name-sec p{
+    color: rgba(17, 17, 17, 0.60);
+
+    font-family: "Exo 2";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%; 
+}
+.info-container{
+    color: #111;
+    font-family: "Exo 2";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%; /* 64px */
+    }

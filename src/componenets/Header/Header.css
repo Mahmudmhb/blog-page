@@ -1,0 +1,11 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+    background-color: aquamarine;
+}
+.anhor a{
+   margin-left: 20px;
+   color: white;
+}
