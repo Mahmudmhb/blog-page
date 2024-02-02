@@ -1,9 +1,11 @@
-.sideber-header{
+.sideber-header {
     text-align: center;
     border-radius: 8px;
     border: 1px solid #6047EC;
     background: rgba(96, 71, 236, 0.10);
 }
-.sideber-container{
-    position: fixed;
+
+.sideber-container {
+    position: sticky;
+    top: 0;
 }
